@@ -1,0 +1,38 @@
+html{
+    background-color:;
+}
+img{
+    width: 30%;  height: 50%
+}
+
+a{
+    color:blue;
+}
+
+h1{
+    color: red;
+    font-family: Brush Script Std, cursive;
+    font-size: 4rem;
+}
+
+h2{
+    color: red;
+    font-family:Trattatello, fantasy;
+    font-size: 2rem;
+}
+
+h3{
+    color: red;
+
+}
+
+p{
+    color: red;
+    font-size: 1rem;
+}
+ul{
+   color: red; 
+}
+ol{
+   color: red; 
+}
